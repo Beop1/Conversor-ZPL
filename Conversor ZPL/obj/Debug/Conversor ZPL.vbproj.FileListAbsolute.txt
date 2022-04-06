@@ -1,0 +1,167 @@
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe.config
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Form1.resources
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Resources.resources
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.GenerateResource.cache
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CoreCompileInputs.cache
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.exe
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbprojAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe.config
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.xml
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.AssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Form1.resources
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.GenerateResource.cache
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.exe
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.xml
+C:\Users\Bernardo\Documents\Visual Studio 2019\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.pdb
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe.config
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.pdb
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.xml
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.AssemblyReference.cache
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Form1.resources
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Resources.resources
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.GenerateResource.cache
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CoreCompileInputs.cache
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.exe
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.xml
+P:\Projetos\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe.config
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Form1.resources
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Resources.resources
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.GenerateResource.cache
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CoreCompileInputs.cache
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.exe
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\BouncyCastle.Crypto.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itextsharp.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itextsharp.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CopyComplete
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.barcodes.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.commons.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.forms.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.io.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.kernel.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.layout.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.pdfa.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.sign.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.styledxmlparser.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.svg.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Options.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Primitives.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Buffers.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Memory.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Numerics.Vectors.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.ValueTuple.dll
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\BouncyCastle.Crypto.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.barcodes.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.commons.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.forms.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.io.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.kernel.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.layout.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.pdfa.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.sign.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.styledxmlparser.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\itext.svg.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Options.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Primitives.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Buffers.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Memory.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Numerics.Vectors.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.Threading.Tasks.Extensions.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\bin\Debug\System.ValueTuple.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.AssemblyReference.cache
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe.config
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.exe
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.pdb
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Conversor ZPL.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.barcodes.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.commons.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.forms.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.io.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.kernel.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.layout.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.pdfa.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.sign.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.styledxmlparser.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.svg.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itextsharp.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Buffers.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Memory.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Numerics.Vectors.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.ValueTuple.dll
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\BouncyCastle.Crypto.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.barcodes.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.commons.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.forms.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.io.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.kernel.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.layout.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.pdfa.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.sign.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.styledxmlparser.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itext.svg.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\itextsharp.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Buffers.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Memory.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Numerics.Vectors.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\bin\Debug\System.ValueTuple.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.AssemblyReference.cache
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Form1.resources
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.Resources.resources
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.GenerateResource.cache
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CoreCompileInputs.cache
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.vbproj.CopyComplete
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.exe
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.xml
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor ZPL.pdb
+D:\Bernardo\Documentos\Kaptron\Projeto ZPL\Conversor ZPL\obj\Debug\Conversor_ZPL.CustomBox.resources

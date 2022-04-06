@@ -1,0 +1,12 @@
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Release\Conversor ZPL.exe.config
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Release\Conversor ZPL.exe
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Release\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\bin\Release\Conversor ZPL.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor_ZPL.Form1.resources
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor_ZPL.Resources.resources
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor ZPL.vbproj.GenerateResource.cache
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor ZPL.vbproj.CoreCompileInputs.cache
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor ZPL.exe
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor ZPL.xml
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor ZPL.pdb
+T:\Gerenciador\Visual Studio\Conversor ZPL\Conversor ZPL\Conversor ZPL\obj\Release\Conversor ZPL.vbprojAssemblyReference.cache
