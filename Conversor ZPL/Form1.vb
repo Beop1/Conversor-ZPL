@@ -692,7 +692,7 @@ Public Class Form1
 
         For Each preset As String In p
 
-            Dim addPreset As Boolean = True 'boolean para verificar se o preset em questão deve ser adicionado
+            Dim addPreset As Boolean 'boolean para verificar se o preset em questão deve ser adicionado
             Dim indice As New Integer
             Dim struct_do_preset As struct_preset
 
@@ -707,7 +707,6 @@ Public Class Form1
                 If struct_do_preset.nome = struct_do_User_preset.nome Then
 
                     addPreset = False 'preset ja existe e nao será adicionado, a menos que o usuario deseje sobregravar
-
                     If noForAll Then Exit For
 
                     If Not yesForAll Then
@@ -737,7 +736,10 @@ Public Class Form1
                     If indice <> -1 Then
                         lista_excluir.Add(My.Settings.presets_user(indice)) 'lista de presets a serem excluídos para serem substituidos
                         addPreset = True 'preset ja existe mas o usuario deseja sobregravar, entao será adicionado
+                        Exit For
                     End If
+                Else
+                    addPreset = True
                 End If
             Next
             If addPreset Then
