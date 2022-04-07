@@ -165,7 +165,6 @@
     <Compile Include="CustomBox.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CustomMsgBox.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>

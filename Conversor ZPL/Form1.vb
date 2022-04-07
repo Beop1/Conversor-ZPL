@@ -292,6 +292,8 @@ Public Class Form1
             If exibir_no_preview Then pictureboxPreview.Image = Nothing
         End Try
 
+        lblTotal_Paginas.Text = contagem_total
+
     End Sub
 
 
@@ -314,6 +316,7 @@ Public Class Form1
         lista_Ordenada.Clear()
         lista_imagens.Clear()
 
+        lblTotal_Paginas.text = "0"
         txtStatus.Text = ""
         limpar_preview()
     End Sub
