@@ -33,7 +33,7 @@ Module Funções_Gerais
 
     End Sub
 
-    Public Function Carregar_Predefinicoes(Optional nome_do_arquivo As String = "") As StringCollection
+    Public Function Importar_Predefinicoes(Optional nome_do_arquivo As String = "") As StringCollection
 
         Dim arquivo As String = ""
         Dim p As StringCollection = Nothing

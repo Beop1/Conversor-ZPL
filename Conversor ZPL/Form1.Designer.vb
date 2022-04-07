@@ -46,6 +46,9 @@ Partial Class Form1
         Me.cbDPI = New System.Windows.Forms.ComboBox()
         Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
         Me.SplitContainer1 = New System.Windows.Forms.SplitContainer()
+        Me.lblTotal_Paginas = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
         Me.lvPreview_lista = New System.Windows.Forms.ListView()
@@ -65,10 +68,7 @@ Partial Class Form1
         Me.EToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
         Me.SairToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Label4 = New System.Windows.Forms.Label()
         Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.lblTotal_Paginas = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox2.SuspendLayout()
         CType(Me.SplitContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -349,6 +349,36 @@ Partial Class Form1
         Me.SplitContainer1.SplitterDistance = 362
         Me.SplitContainer1.TabIndex = 46
         '
+        'lblTotal_Paginas
+        '
+        Me.lblTotal_Paginas.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.lblTotal_Paginas.AutoSize = True
+        Me.lblTotal_Paginas.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTotal_Paginas.Location = New System.Drawing.Point(325, 428)
+        Me.lblTotal_Paginas.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.lblTotal_Paginas.Name = "lblTotal_Paginas"
+        Me.lblTotal_Paginas.Size = New System.Drawing.Size(16, 17)
+        Me.lblTotal_Paginas.TabIndex = 49
+        Me.lblTotal_Paginas.Text = "0"
+        Me.lblTotal_Paginas.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(273, 435)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(0, 13)
+        Me.Label9.TabIndex = 68
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(231, 431)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(89, 13)
+        Me.Label4.TabIndex = 67
+        Me.Label4.Text = "Total de páginas:"
+        '
         'Label6
         '
         Me.Label6.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
@@ -562,40 +592,10 @@ Partial Class Form1
         Me.SairToolStripMenuItem.Size = New System.Drawing.Size(199, 22)
         Me.SairToolStripMenuItem.Text = "Sair"
         '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(231, 431)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(89, 13)
-        Me.Label4.TabIndex = 67
-        Me.Label4.Text = "Total de páginas:"
-        '
         'ContextMenuStrip1
         '
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
         Me.ContextMenuStrip1.Size = New System.Drawing.Size(61, 4)
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(273, 435)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(0, 13)
-        Me.Label9.TabIndex = 68
-        '
-        'lblTotal_Paginas
-        '
-        Me.lblTotal_Paginas.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.lblTotal_Paginas.AutoSize = True
-        Me.lblTotal_Paginas.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblTotal_Paginas.Location = New System.Drawing.Point(325, 428)
-        Me.lblTotal_Paginas.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
-        Me.lblTotal_Paginas.Name = "lblTotal_Paginas"
-        Me.lblTotal_Paginas.Size = New System.Drawing.Size(16, 17)
-        Me.lblTotal_Paginas.TabIndex = 49
-        Me.lblTotal_Paginas.Text = "0"
-        Me.lblTotal_Paginas.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'Form1
         '

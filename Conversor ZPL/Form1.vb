@@ -123,7 +123,6 @@ Public Class Form1
 
         If openFileDialog1.ShowDialog() = DialogResult.OK Then
 
-
             arquivo = openFileDialog1.FileName
             arquivos_adicionados.Add(arquivo)
 
@@ -163,7 +162,6 @@ Public Class Form1
         lista_paginas_completa.AddRange(paginas)
         gerar_lista_ordenada()
 
-
         txtStatus.Text = "Arquivos: " & arquivos_adicionados.Count & vbNewLine &
                              "Total de páginas: " & contagem_total.ToString() & vbNewLine &
                              "Arquivos abertos: " & vbNewLine &
@@ -178,8 +176,6 @@ Public Class Form1
         'Perguntar ao usuário o nome do arquivo
         arquivo = Salvar_Como("Etiquetas.pdf", "Adobe Acrobat PDF|*.pdf")
         If arquivo = "" Then Exit Sub 'Cancelado
-
-
 
         arquivo = Gerar_PDF_Mesclado(arquivo)
         If arquivo = "" Then
@@ -257,6 +253,7 @@ Public Class Form1
         If File.Exists(arquivo_destino) Then Return arquivo_destino Else Return ""
 
     End Function
+
     Private Function Dimensoes_Etiqueta() As struct_dimensoes_etiqueta
         With Dimensoes_Etiqueta
             .DPI = cbDPI.SelectedIndex
@@ -296,7 +293,6 @@ Public Class Form1
 
     End Sub
 
-
     Public Sub limpar_preview()
         pictureboxPreview.Image = Nothing
 
@@ -320,10 +316,6 @@ Public Class Form1
         txtStatus.Text = ""
         limpar_preview()
     End Sub
-
-
-
-
 
     Private Function numero_da_venda(pagina As String) As String
         Dim tmp As String
@@ -383,14 +375,10 @@ Public Class Form1
             Else
                 chave = Integer.MaxValue
             End If
-
-
-
         End If
         Return chave
 
     End Function
-
 
     Private Sub gerar_lista_ordenada()
 
@@ -436,24 +424,15 @@ Public Class Form1
             numero_de_copias = Copias_por_pagina(pagina)
 
             'Iterar todos os itens da lista_ordenada e adicionar no painel
-
             'add items to ListView
-            'arr(0) = (contagem_total + 1) '& IIf(numero_de_copias > 1, " a " & (contagem_total + numero_de_copias), "")
+
             arr(0) = (lista_Ordenada.IndexOf(pagina) + 1)
             arr(1) = numero_de_copias
             arr(2) = numero_da_venda(pagina)
             arr(3) = id_do_frete(pagina)
             itm = New ListViewItem(arr)
-            'itm.Tag(contagem_total + 1)
+
             lvPreview_lista.Items.Add(itm)
-
-            'itm = New ListViewItem
-            'itm.SubItems.Item(0).Text = "2"
-            'itm.SubItems.Add("3")
-            'itm.SubItems.Add("4")
-            'itm.SubItems.Add("5")
-            'lvPreview_lista.Items.Add(itm)
-
             contagem_total += numero_de_copias
         Next
 
@@ -536,7 +515,6 @@ Public Class Form1
         Return grupos
     End Function
 
-
     Private Function Copias_por_pagina(pagina As String) As Integer
         Dim strTmp As String
         Try
@@ -548,7 +526,6 @@ Public Class Form1
             Copias_por_pagina = 1
         End Try
     End Function
-
 
     Private Sub BackgroundWorker1_DoWork(sender As Object, e As System.ComponentModel.DoWorkEventArgs) Handles BackgroundWorker1.DoWork
         'Dim i As Integer
@@ -570,7 +547,6 @@ Public Class Form1
         '        pictureboxPreview.Image = Nothing
         '    End Try
         'Next
-
     End Sub
 
     Private Sub BackgroundWorker1_ProgressChanged(sender As Object, e As ProgressChangedEventArgs) Handles BackgroundWorker1.ProgressChanged
@@ -704,21 +680,22 @@ Public Class Form1
         Dim dic_MySettings As New Dictionary(Of String, String)
         Dim p As StringCollection
         Dim serializer As JavaScriptSerializer = Nothing
-        'Dim customBox As CustomMsgBox
 
-        p = Carregar_Predefinicoes("ConversorZPL")
+        p = Importar_Predefinicoes("ConversorZPL")
 
         If p Is Nothing Then Exit Sub
 
         Dim noForAll As Boolean = False, yesForAll As Boolean = False
         Dim box As New CustomBox()
+
         serializer = New JavaScriptSerializer()
 
         For Each preset As String In p
 
-            Dim addPreset As Boolean = True
+            Dim addPreset As Boolean = True 'boolean para verificar se o preset em questão deve ser adicionado
             Dim indice As New Integer
             Dim struct_do_preset As struct_preset
+
             struct_do_preset = serializer.Deserialize(Of struct_preset)(preset)
 
             For Each user_preset As String In My.Settings.presets_user
@@ -729,18 +706,15 @@ Public Class Form1
                 'se o nome dos presets comparados for igual, perguntar ao usuário oq deseja fazer
                 If struct_do_preset.nome = struct_do_User_preset.nome Then
 
-                    addPreset = False
+                    addPreset = False 'preset ja existe e nao será adicionado, a menos que o usuario deseje sobregravar
+
                     If noForAll Then Exit For
 
                     If Not yesForAll Then
-                        'PRESET JÁ EXISTE, perguntar o que fazer:
-                        'se não desejar sobregravar, ir para o proximo preset na lista de presets importados
-
                         box.lblText.Text = "Um item com o nome """ & struct_do_preset.nome & """ já existe." & vbCrLf & "Deseja sobregravar?"
                         box.ShowDialog()
 
-                        'checagem de qual botão foi pressionado
-                        'e se o ForAll foi marcado
+                        'checagem de qual botão foi pressionado e se o "ForAll" foi marcado
                         If box.DialogResult.Equals(DialogResult.No) Then
 
                             If box.chkBox_ForAll.Checked Then noForAll = True
@@ -751,30 +725,32 @@ Public Class Form1
                             If box.chkBox_ForAll.Checked Then yesForAll = True
 
                         ElseIf box.DialogResult.Equals(DialogResult.Cancel) Then
+
                             Exit Sub
+
                         End If
                     End If
 
-                    'se sim, sobregravar
+                    'processo de sobregravar
                     indice = cbPresets.FindStringExact(struct_do_User_preset.nome)
 
                     If indice <> -1 Then
-                        lista_excluir.Add(My.Settings.presets_user(indice))
-                        addPreset = True
+                        lista_excluir.Add(My.Settings.presets_user(indice)) 'lista de presets a serem excluídos para serem substituidos
+                        addPreset = True 'preset ja existe mas o usuario deseja sobregravar, entao será adicionado
                     End If
                 End If
             Next
             If addPreset Then
-                lista_adicionar.Add(New JavaScriptSerializer().Serialize(struct_do_preset))
+                lista_adicionar.Add(New JavaScriptSerializer().Serialize(struct_do_preset)) 'lista de presets do .config a serem adicionados
             End If
         Next
 
         For Each i In lista_excluir
-            My.Settings.presets_user.Remove(i)
+            My.Settings.presets_user.Remove(i) 'remover os presets q serão sobregravados
         Next
 
         For Each s In lista_adicionar
-            My.Settings.presets_user.Add(s)
+            My.Settings.presets_user.Add(s) 'sobregravar
         Next
 
         Atualizar_Lista_Presets()
