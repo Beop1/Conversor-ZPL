@@ -494,7 +494,7 @@ Partial Class Form1
         Me.pictureboxPreview.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.pictureboxPreview.BackColor = System.Drawing.Color.White
+        Me.pictureboxPreview.BackColor = System.Drawing.SystemColors.ButtonFace
         Me.pictureboxPreview.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.pictureboxPreview.Location = New System.Drawing.Point(5, 18)
         Me.pictureboxPreview.Margin = New System.Windows.Forms.Padding(2)

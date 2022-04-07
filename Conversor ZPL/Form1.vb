@@ -686,6 +686,8 @@ Public Class Form1
 
     Private Sub cbPresets_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbPresets.SelectedIndexChanged
         Carregar_Presets(cbPresets.SelectedItem.value)
+        lista_imagens.Clear()
+        Gerar_preview()
     End Sub
 
     Private Sub EToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles EToolStripMenuItem.Click
@@ -723,34 +725,32 @@ Public Class Form1
 
                 'se o nome dos presets comparados for igual, perguntar ao usuário oq deseja fazer
                 If struct_do_preset.nome = struct_do_User_preset.nome Then
-                    If noForAll Then Exit For
+
                     addPreset = False
+                    If noForAll Then Exit For
 
-                    'PRESET JÁ EXISTE, perguntar o que fazer:
+                    If Not yesForAll Then
+                        'PRESET JÁ EXISTE, perguntar o que fazer:
+                        'se não desejar sobregravar, ir para o proximo preset na lista de presets importados
 
-                    'se não desejar sobregravar, ir para o proximo preset na lista de presets importados
+                        box.lblText.Text = "Um item com o nome """ & struct_do_preset.nome & """ já existe." & vbCrLf & "Deseja sobregravar?"
+                        box.ShowDialog()
 
-                    box.lblText.Text = "Um item com o nome """ & struct_do_preset.nome & """ já existe." & vbCrLf & "Deseja sobregravar?"
-                    box.ShowDialog()
+                        'checagem de qual botão foi pressionado
+                        'e se o ForAll foi marcado
+                        If box.DialogResult.Equals(DialogResult.No) Then
 
-                    'checagem de qual botão foi pressionado
-                    'e se o ForAll foi marcado
-                    If box.DialogResult.Equals(DialogResult.No) Then
+                            If box.chkBox_ForAll.Checked Then noForAll = True
+                            Exit For
 
-                        If box.chkBox_ForAll.Checked Then noForAll = True
-                        Exit For
+                        ElseIf box.DialogResult.Equals(DialogResult.Yes) Then
 
-                    ElseIf box.DialogResult.Equals(DialogResult.Yes) Then
+                            If box.chkBox_ForAll.Checked Then yesForAll = True
 
-                        If box.chkBox_ForAll.Checked Then yesForAll = True
-
-                    ElseIf box.DialogResult.Equals(DialogResult.Cancel) Then
-                        Exit Sub
+                        ElseIf box.DialogResult.Equals(DialogResult.Cancel) Then
+                            Exit Sub
+                        End If
                     End If
-
-                    'If MsgBox("Um item com o nome """ & struct_do_preset.nome & """ já existe, deseja sobregravar?", vbYesNo + vbQuestion) = vbNo Then
-                    '    Exit For
-                    'End If
 
                     'se sim, sobregravar
                     indice = cbPresets.FindStringExact(struct_do_User_preset.nome)
